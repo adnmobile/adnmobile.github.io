@@ -1,0 +1,16 @@
+---
+published: true
+title: Pi
+layout: post
+---
+Pi1 est un nombre, que l’on représente par la lettre grecque du même nom : π. C’est le rapport constant de la circonférence d’un cercle à son diamètre dans un plan euclidien. On peut également le définir comme le rapport de la superficie d’un cercle au carré de son rayon.
+
+Sa valeur approchée par défaut à moins de 0,5×10–15 près2 est 3,141 592 653 589 793 en écriture décimale3,4.
+
+De nombreuses formules, de physique, d’ingénierie et bien sûr de mathématiques, impliquent π, qui est une des constantes les plus importantes des mathématiques5.
+
+Le nombre π est irrationnel, c’est-à-dire qu’on ne peut pas l’exprimer comme un rapport de deux nombres entiers ; ceci entraîne que son écriture décimale n’est ni finie, ni périodique. C’est même un nombre transcendant, ce qui signifie qu’il n’existe pas de polynôme non nul à coefficients entiers dont π soit une racine6.
+
+La détermination d’une valeur approchée suffisamment précise de π, et la compréhension de sa nature sont des enjeux qui ont traversé l’histoire des mathématiques ; la fascination exercée par ce nombre l’a même fait entrer dans la culture populaire.
+
+L’usage de la lettre grecque π, première lettre de « περίμετρος » — périmètre en grec —, n’est apparu qu’au xviiie siècle. Auparavant, sa valeur était désignée par diverses périphrases comme la « constante du cercle » ou son équivalent dans diverses langues.
